@@ -1,1 +1,1 @@
-Objects, Scopesand closures
+Objects classes and closures
